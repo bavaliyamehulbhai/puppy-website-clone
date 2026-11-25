@@ -16,9 +16,9 @@ Customized with localized context (INR ₹ currency, Bandra West Mumbai boutique
 
 | Deliverable | Link |
 |---|---|
-| **Live Deployed App** | [https://YOUR_NETLIFY_SITE.netlify.app](https://YOUR_NETLIFY_SITE.netlify.app) |
-| **GitHub Source Code** | [https://github.com/YOUR_USERNAME/puppy-website-clone](https://github.com/YOUR_USERNAME/puppy-website-clone) |
-| **Loom Video Walkthrough** | [https://www.loom.com/share/YOUR_LOOM_ID](https://www.loom.com/share/YOUR_LOOM_ID) |
+| **Live Deployed App** | [https://puppy-website.netlify.app/](https://puppy-website.netlify.app/) |
+| **GitHub Source Code** | [https://github.com/bavaliyamehulbhai/puppy-website-clone](https://github.com/bavaliyamehulbhai/puppy-website-clone) |
+| **Loom Video Walkthrough** | [Add your Loom recording link here] |
 | **Reference Website** | [https://puppy.instabizweb.com/](https://puppy.instabizweb.com/) |
 
 ---
@@ -97,7 +97,7 @@ puppy-clone/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/puppy-website-clone.git
+git clone https://github.com/bavaliyamehulbhai/puppy-website-clone.git
 cd puppy-website-clone
 
 # 2. Install dependencies
