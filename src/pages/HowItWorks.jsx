@@ -26,7 +26,7 @@ function HowItWorks() {
             How It Works
           </h1>
           <p className="text-base text-[#5A3A28] leading-relaxed">
-            Whether you choose to visit our Bandra West, Mumbai showroom or order a rare miniature teacup breed from certified overseas breeders, TeddyPups is here to make your experience unforgettable.
+            Whether you choose to visit our Bandra West, Mumbai showroom or order a rare miniature teacup breed from certified overseas breeders, TeddyPups India is here to make your experience unforgettable.
           </p>
         </div>
 
@@ -194,7 +194,7 @@ function HowItWorks() {
         {/* Tab 4: Why Choose Us */}
         {activeTab === 'whyUs' && (
           <div className="bg-white rounded-3xl p-8 sm:p-12 border border-[#2A170E]/10 max-w-4xl mx-auto shadow-sm space-y-6">
-            <h3 className="font-serif text-2xl font-bold text-[#2A170E]">Why Discerning Families Choose TeddyPups</h3>
+            <h3 className="font-serif text-2xl font-bold text-[#2A170E]">Why Discerning Families Choose TeddyPups India</h3>
             <p className="text-sm text-[#5A3A28] leading-relaxed">
               Adopting a teacup companion requires extreme attention to genetics, ethical breeding, and health standards. Here is why families repeatedly recommend us:
             </p>

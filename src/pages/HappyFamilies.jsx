@@ -76,7 +76,7 @@ function HappyFamilies() {
                   {moment.title}
                 </h4>
                 <p className="font-script text-[11px] text-[#C2622B] mt-1">
-                  every one of them was a Teddy Pup once
+                  every one of them was a TeddyPups India puppy once
                 </p>
               </div>
             </div>
@@ -86,7 +86,7 @@ function HappyFamilies() {
         {/* Share your moment CTA */}
         <div className="mt-16 text-center bg-white rounded-3xl p-8 border border-[#2A170E]/10 max-w-xl mx-auto shadow-sm">
           <h3 className="font-serif text-xl font-bold text-[#2A170E] mb-2">
-            Are you already a TeddyPups parent?
+            Are you already a TeddyPups India parent?
           </h3>
           <p className="text-xs text-[#5A3A28] mb-6">
             We would love to feature you and your puppy on our happy wall! Send us your photos or videos on WhatsApp.

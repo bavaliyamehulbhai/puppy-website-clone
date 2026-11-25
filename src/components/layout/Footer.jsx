@@ -70,12 +70,12 @@ function Footer() {
             <div className="flex items-center gap-3">
               <img 
                 src="/assets/brand/logo.png" 
-                alt="TeddyPups" 
+                alt="TeddyPups India" 
                 className="w-10 h-10 rounded-full bg-white/10 p-1"
                 onError={(e) => { e.target.style.display = 'none'; }}
               />
               <span className="font-serif text-2xl font-bold tracking-tight text-white">
-                TeddyPups
+                TeddyPups India
               </span>
             </div>
             <p className="text-sm text-[#FBE9CC]/80 leading-relaxed">

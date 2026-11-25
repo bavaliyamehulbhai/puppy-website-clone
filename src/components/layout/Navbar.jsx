@@ -34,7 +34,7 @@ function Navbar() {
           />
           <div className="flex flex-col">
             <span className="font-serif text-2xl font-bold tracking-tight text-[#2A170E] leading-none">
-              TeddyPups
+              TeddyPups India
             </span>
             <span className="font-script text-xs text-[#C2622B] tracking-wide mt-0.5">
               every puppy is family
