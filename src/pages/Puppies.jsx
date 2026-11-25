@@ -51,7 +51,7 @@ function Puppies() {
 
   const filteredPuppies = useMemo(() => {
     return puppyData.filter((p) => {
-      // Exclude gone home on available page unless searched
+      
       if (p.status !== 'Available') return false
 
       // Breed filter
@@ -100,7 +100,7 @@ function Puppies() {
           </p>
         </div>
 
-        {/* Filters and Search Bar Container */}
+        {}
         <div className="bg-white rounded-3xl p-6 shadow-sm border border-[#2A170E]/10 mb-10 space-y-6">
           {/* Search Input & Sort */}
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">

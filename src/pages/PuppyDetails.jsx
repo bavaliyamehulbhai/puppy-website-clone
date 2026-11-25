@@ -76,7 +76,7 @@ function PuppyDetails() {
           </div>
         </div>
 
-        {/* Main Details Grid */}
+        {}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-14 items-start">
           {/* Left Column: Interactive Image Carousel */}
           <div className="lg:col-span-7 space-y-4">
@@ -130,7 +130,7 @@ function PuppyDetails() {
               </div>
             </div>
 
-            {/* Thumbnail Strip */}
+            {}
             {gallery.length > 1 && (
               <div className="flex gap-3 overflow-x-auto pb-2">
                 {gallery.map((img, idx) => (

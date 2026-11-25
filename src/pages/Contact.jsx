@@ -184,7 +184,7 @@ function Contact() {
             )}
           </div>
 
-          {/* Right Column: Showroom Details & Map Card */}
+          {}
           <div className="lg:col-span-5 space-y-6">
             {/* Showroom Card */}
             <div className="bg-white rounded-3xl p-8 border border-[#2A170E]/10 shadow-sm space-y-5">
@@ -232,11 +232,11 @@ function Contact() {
                   style={{ border: 0 }}
                   loading="lazy"
                   allowFullScreen
-                  src="https://maps.google.com/maps?q=Bandra+West+Mumbai&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                  src="https:
                 ></iframe>
               </div>
               <a
-                href="https://maps.google.com/?q=Bandra+West+Mumbai"
+                href="https:
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-1.5 text-xs font-semibold text-[#C2622B] hover:underline"

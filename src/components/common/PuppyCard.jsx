@@ -9,7 +9,7 @@ function PuppyCard({ puppy, className = '' }) {
       to={`/puppies/${puppy.slug}`}
       className={`group block bg-white rounded-3xl overflow-hidden border border-[#2A170E]/10 shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1.5 flex flex-col ${className}`}
     >
-      {/* Image Container with Badges */}
+      {}
       <div className="relative aspect-square w-full bg-[#FBE9CC]/20 overflow-hidden">
         <img
           src={puppy.image}

@@ -64,7 +64,7 @@ function HeroSection() {
           {/* Right Column: Hero Visual Showcase */}
           <div className="lg:col-span-5 relative">
             <div className="relative mx-auto max-w-md lg:max-w-none">
-              {/* Main Feature Puppy Card */}
+              {}
               <div className="bg-white rounded-3xl p-4 shadow-xl border border-[#2A170E]/10 transition-transform hover:scale-[1.01]">
                 <div className="relative aspect-[4/3] rounded-2xl overflow-hidden bg-[#FBE9CC]/30 mb-4">
                   <img
