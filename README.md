@@ -18,7 +18,7 @@ Customized with localized context (INR ₹ currency, Bandra West Mumbai boutique
 |---|---|
 | **Live Deployed App** | [https://puppy-website.netlify.app/](https://puppy-website.netlify.app/) |
 | **GitHub Source Code** | [https://github.com/bavaliyamehulbhai/puppy-website-clone](https://github.com/bavaliyamehulbhai/puppy-website-clone) |
-| **Loom Video Walkthrough** | [Add your Loom recording link here] |
+| **Loom Video Walkthrough** | [https://www.loom.com/share/30e735d9827b4a22ad5fa2a4e65452ea](https://www.loom.com/share/30e735d9827b4a22ad5fa2a4e65452ea) |
 | **Reference Website** | [https://puppy.instabizweb.com/](https://puppy.instabizweb.com/) |
 
 ---
