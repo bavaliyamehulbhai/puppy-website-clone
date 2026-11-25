@@ -14,11 +14,11 @@ function Button({
   const baseStyles = 'inline-flex items-center justify-center font-medium rounded-full transition-all duration-300 active:scale-95 text-center'
   
   const variants = {
-    primary: 'bg-[#C2622B] text-white hover:bg-[#A85221] shadow-sm hover:shadow-md px-6 py-3 text-sm md:text-base',
-    secondary: 'bg-[#FFECC8] text-[#5A301B] hover:bg-[#F8DBAE] px-6 py-3 text-sm md:text-base',
-    outline: 'border border-[#2A170E]/20 text-[#2A170E] hover:bg-[#FBE9CC]/40 px-6 py-3 text-sm md:text-base',
-    dark: 'bg-[#2A170E] text-[#FFFDF8] hover:bg-[#3D2518] px-6 py-3 text-sm md:text-base',
-    ghost: 'text-[#C2622B] hover:underline px-3 py-1.5 text-sm',
+    primary: 'bg-[#C2622B] text-white !text-white hover:bg-[#A85221] shadow-sm hover:shadow-md px-6 py-3 text-sm md:text-base',
+    secondary: 'bg-[#FFECC8] text-[#5A301B] !text-[#5A301B] hover:bg-[#F8DBAE] px-6 py-3 text-sm md:text-base',
+    outline: 'border border-[#2A170E]/20 text-[#2A170E] !text-[#2A170E] hover:bg-[#FBE9CC]/40 px-6 py-3 text-sm md:text-base',
+    dark: 'bg-[#2A170E] text-[#FFFDF8] !text-[#FFFDF8] hover:bg-[#3D2518] px-6 py-3 text-sm md:text-base',
+    ghost: 'text-[#C2622B] !text-[#C2622B] hover:underline px-3 py-1.5 text-sm',
     badge: 'px-3 py-1 rounded-full text-xs font-semibold'
   }
 

@@ -36,10 +36,10 @@ function CTASection() {
           <Button
             to="/contact"
             variant="secondary"
-            className="w-full sm:w-auto px-8 py-3.5"
+            className="w-full sm:w-auto px-8 py-3.5 !text-[#5A301B]"
           >
             <MapPin className="w-4 h-4 mr-2 text-[#C2622B]" />
-            <span>Visit & contact</span>
+            <span className="text-[#5A301B]">Visit & contact</span>
           </Button>
         </div>
       </Container>
