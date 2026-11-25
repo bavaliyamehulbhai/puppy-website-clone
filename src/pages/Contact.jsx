@@ -226,17 +226,17 @@ function Contact() {
             <div className="bg-[#FFECC8]/40 rounded-3xl p-6 border border-[#F2BE6B]/30 shadow-sm text-center">
               <div className="aspect-[16/9] rounded-2xl overflow-hidden mb-4 bg-neutral-200 border border-[#2A170E]/10">
                 <iframe
-                  title="Dubai Showroom Location"
+                  title="Mumbai Boutique Showroom Location"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
                   loading="lazy"
                   allowFullScreen
-                  src="https:
+                  src="https://maps.google.com/maps?q=Bandra+West+Mumbai&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 ></iframe>
               </div>
               <a
-                href="https:
+                href="https://maps.google.com/?q=Bandra+West+Mumbai"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-1.5 text-xs font-semibold text-[#C2622B] hover:underline"
