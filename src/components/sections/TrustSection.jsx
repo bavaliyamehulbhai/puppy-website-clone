@@ -16,7 +16,7 @@ function TrustSection() {
       <Container>
         <SectionHeading
           eyebrow="puppy passport"
-          title="Why families trust TeddyPups India"
+          title="Why families trust TeddyPups"
           description="Every detail is managed to ensure health, safety, and an experience full of delight."
         />
 

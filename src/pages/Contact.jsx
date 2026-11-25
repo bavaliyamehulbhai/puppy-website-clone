@@ -93,7 +93,7 @@ function Contact() {
             ) : (
               <form onSubmit={handleSubmit} className="space-y-6">
                 <div className="border-b border-[#2A170E]/10 pb-4 mb-6">
-                  <span className="font-script text-2xl text-[#2A170E]">Dear TeddyPups India,</span>
+                  <span className="font-script text-2xl text-[#2A170E]">Dear TeddyPups,</span>
                 </div>
 
                 {/* Mad-Libs Prose Form */}

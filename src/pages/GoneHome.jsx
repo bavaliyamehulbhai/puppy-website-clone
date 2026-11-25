@@ -11,18 +11,18 @@ function GoneHome() {
 
   // also include some simulated adopted boarding passes from reference site
   const ticketPuppies = [
-    { id: 't1', name: 'Ace', breed: 'Pomeranian', gender: 'boy', destination: 'TeddyPups India home' },
-    { id: 't2', name: 'Leo', breed: 'Poodle', gender: 'boy', destination: 'TeddyPups India home' },
+    { id: 't1', name: 'Ace', breed: 'Pomeranian', gender: 'boy', destination: 'TeddyPups home' },
+    { id: 't2', name: 'Leo', breed: 'Poodle', gender: 'boy', destination: 'TeddyPups home' },
     { id: 't3', name: 'Mia', breed: 'Maltipoo', gender: 'girl', destination: 'Mumbai showroom home' },
-    { id: 't4', name: 'Sadie', breed: 'Maltipoo', gender: 'girl', destination: 'TeddyPups India home' },
-    { id: 't5', name: 'Pomeranian Boy', breed: 'Pomeranian', gender: 'boy', destination: 'TeddyPups India home' },
-    { id: 't6', name: 'Ollie', breed: 'Pomsky', gender: 'boy', destination: 'TeddyPups India home' },
+    { id: 't4', name: 'Sadie', breed: 'Maltipoo', gender: 'girl', destination: 'TeddyPups home' },
+    { id: 't5', name: 'Pomeranian Boy', breed: 'Pomeranian', gender: 'boy', destination: 'TeddyPups home' },
+    { id: 't6', name: 'Ollie', breed: 'Pomsky', gender: 'boy', destination: 'TeddyPups home' },
     { id: 't7', name: 'Bruno', breed: 'Maltipoo', gender: 'boy', destination: 'Mumbai showroom home' },
     { id: 't8', name: 'Buddy', breed: 'Maltese', gender: 'boy', destination: 'Mumbai showroom home' },
-    { id: 't9', name: 'Charlie', breed: 'Maltese', gender: 'boy', destination: 'TeddyPups India home' },
+    { id: 't9', name: 'Charlie', breed: 'Maltese', gender: 'boy', destination: 'TeddyPups home' },
     { id: 't10', name: 'Daisy', breed: 'Pomeranian', gender: 'girl', destination: 'Mumbai showroom home' },
-    { id: 't11', name: 'Bella', breed: 'Pomeranian', gender: 'girl', destination: 'TeddyPups India home' },
-    { id: 't12', name: 'Teddy', breed: 'Poodle', gender: 'boy', destination: 'TeddyPups India home' }
+    { id: 't11', name: 'Bella', breed: 'Pomeranian', gender: 'girl', destination: 'TeddyPups home' },
+    { id: 't12', name: 'Teddy', breed: 'Poodle', gender: 'boy', destination: 'TeddyPups home' }
   ]
 
   const breeds = ['all', 'maltipoo', 'pomeranian', 'poodle', 'maltese', 'pomsky']
@@ -103,7 +103,7 @@ function GoneHome() {
                   <Heart className="w-3.5 h-3.5 text-red-500 fill-current" />
                   <span>{ticket.destination}</span>
                 </span>
-                <span className="font-script text-[#C2622B]">TeddyPups India home ♥</span>
+                <span className="font-script text-[#C2622B]">TeddyPups home ♥</span>
               </div>
             </div>
           ))}

@@ -28,13 +28,13 @@ function Navbar() {
         <Link to="/" className="flex items-center gap-3 group focus-visible:outline-2 focus-visible:outline-[#C2622B]">
           <img 
             src="/assets/brand/logo.png" 
-            alt="TeddyPups India" 
+            alt="TeddyPups" 
             className="w-10 h-10 object-contain rounded-full shadow-sm group-hover:scale-105 transition-transform"
             onError={(e) => { e.target.style.display = 'none'; }}
           />
           <div className="flex flex-col">
             <span className="font-serif text-2xl font-bold tracking-tight text-[#2A170E] leading-none">
-              TeddyPups India
+              TeddyPups
             </span>
             <span className="font-script text-xs text-[#C2622B] tracking-wide mt-0.5">
               every puppy is family

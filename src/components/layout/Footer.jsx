@@ -70,16 +70,16 @@ function Footer() {
             <div className="flex items-center gap-3">
               <img 
                 src="/assets/brand/logo.png" 
-                alt="TeddyPups India" 
+                alt="TeddyPups" 
                 className="w-10 h-10 rounded-full bg-white/10 p-1"
                 onError={(e) => { e.target.style.display = 'none'; }}
               />
               <span className="font-serif text-2xl font-bold tracking-tight text-white">
-                TeddyPups India
+                TeddyPups
               </span>
             </div>
             <p className="text-sm text-[#FBE9CC]/80 leading-relaxed">
-              Home, at last. TeddyPups India is a premier brand specializing in miniature puppies, offering premium services and worldwide shipping.
+              Home, at last. TeddyPups is a premier brand specializing in miniature puppies, offering premium services and worldwide shipping.
             </p>
             <div className="font-script text-[#F2BE6B] text-sm">
               every puppy is family
@@ -163,7 +163,7 @@ function Footer() {
 
         {/* Bottom Bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-[#FBE9CC]/60 gap-4">
-          <p>© 2026 TeddyPups India every puppy is family</p>
+          <p>© 2026 TeddyPups every puppy is family</p>
           <p>Crafted with love for puppy parents worldwide</p>
         </div>
       </div>
