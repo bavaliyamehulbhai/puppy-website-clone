@@ -28,7 +28,7 @@ function Navbar() {
         <Link to="/" className="flex items-center gap-3 group focus-visible:outline-2 focus-visible:outline-[#C2622B]">
           <img 
             src="/assets/brand/logo.png" 
-            alt="TeddyPups U.A.E." 
+            alt="TeddyPups India" 
             className="w-10 h-10 object-contain rounded-full shadow-sm group-hover:scale-105 transition-transform"
             onError={(e) => { e.target.style.display = 'none'; }}
           />
@@ -151,7 +151,7 @@ function Navbar() {
                 className="w-full flex items-center justify-center gap-2 bg-[#FBE9CC] text-[#2A170E] py-3 rounded-full text-base font-medium hover:bg-[#F8DBAE]"
               >
                 <Phone className="w-4 h-4 text-[#C2622B]" />
-                <span>+971 50 000 0000</span>
+                <span>+91 98981 24987</span>
               </a>
             </div>
           </div>

@@ -8,7 +8,7 @@ function Contact() {
     name: '',
     phone: '',
     email: '',
-    city: 'Dubai',
+    city: 'Mumbai',
     puppyOfInterest: 'any puppy (not sure yet)',
     message: ''
   })
@@ -79,7 +79,7 @@ function Contact() {
                         name: '',
                         phone: '',
                         email: '',
-                        city: 'Dubai',
+                        city: 'Mumbai',
                         puppyOfInterest: 'any puppy (not sure yet)',
                         message: ''
                       })
@@ -114,7 +114,7 @@ function Contact() {
                     type="tel"
                     value={formData.phone}
                     onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                    placeholder="+971 50 000 0000"
+                    placeholder="+91 98981 24987"
                     className={`inline-block px-3 py-1 bg-[#FFFDF8] border-b-2 font-medium focus:outline-none focus:border-[#C2622B] mx-1 min-w-[160px] text-sm ${
                       errors.phone ? 'border-red-500' : 'border-[#2A170E]/30'
                     }`}
@@ -136,7 +136,7 @@ function Contact() {
                     type="text"
                     value={formData.city}
                     onChange={(e) => setFormData({ ...formData, city: e.target.value })}
-                    placeholder="Dubai"
+                    placeholder="Mumbai / Delhi / Bengaluru"
                     className="inline-block px-3 py-1 bg-[#FFFDF8] border-b-2 border-[#2A170E]/30 font-medium focus:outline-none focus:border-[#C2622B] mx-1 min-w-[100px] text-sm"
                   />
                   , and I'm curious about{' '}
@@ -190,7 +190,7 @@ function Contact() {
             <div className="bg-white rounded-3xl p-8 border border-[#2A170E]/10 shadow-sm space-y-5">
               <span className="font-script text-sm text-[#C2622B]">visit us in person</span>
               <h3 className="font-serif text-2xl font-bold text-[#2A170E]">
-                Downtown Dubai Showroom
+                Mumbai Boutique Showroom
               </h3>
               <p className="text-sm text-[#5A3A28] leading-relaxed">
                 Step into our Downtown Dubai showroom and experience the joy of choosing your puppy face-to-face. Showroom visits are by prior appointment to ensure individual bonding time.
@@ -200,13 +200,13 @@ function Contact() {
                 <div className="flex items-center gap-3">
                   <MessageCircle className="w-5 h-5 text-[#C2622B]" />
                   <a href="https://wa.me/919898124987" target="_blank" rel="noreferrer" className="hover:underline">
-                    WhatsApp +971 50 000 0000
+                    WhatsApp +91 98981 24987
                   </a>
                 </div>
                 <div className="flex items-center gap-3">
                   <Phone className="w-5 h-5 text-[#C2622B]" />
                   <a href="tel:+971500000000" className="hover:underline">
-                    +971 50 000 0000
+                    +91 98981 24987
                   </a>
                 </div>
                 <div className="flex items-center gap-3">
@@ -217,7 +217,7 @@ function Contact() {
                 </div>
                 <div className="flex items-start gap-3">
                   <MapPin className="w-5 h-5 text-[#C2622B] shrink-0 mt-0.5" />
-                  <span>Downtown Dubai, United Arab Emirates</span>
+                  <span>Bandra West, Mumbai, Maharashtra 400050</span>
                 </div>
               </div>
             </div>
@@ -232,11 +232,11 @@ function Contact() {
                   style={{ border: 0 }}
                   loading="lazy"
                   allowFullScreen
-                  src="https://maps.google.com/maps?q=Downtown%20Dubai&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                  src="https://maps.google.com/maps?q=Bandra+West+Mumbai&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 ></iframe>
               </div>
               <a
-                href="https://maps.google.com/?q=Downtown+Dubai"
+                href="https://maps.google.com/?q=Bandra+West+Mumbai"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-1.5 text-xs font-semibold text-[#C2622B] hover:underline"

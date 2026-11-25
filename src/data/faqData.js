@@ -1,47 +1,47 @@
 export const faqData = [
   {
     "id": "1",
-    "question": "Are your puppies vaccinated and health-checked?",
-    "answer": "Yes. All our puppies come with a verified health certificate from licensed vets. Every puppy is vaccinated, dewormed, and thoroughly checked before joining your family."
+    "question": "Are your puppies vaccinated and health-checked in India?",
+    "answer": "Yes. All our puppies come with a verified health certificate from registered veterinary doctors. Every puppy is vaccinated, dewormed, microchipped, and thoroughly health-certified before joining your family."
   },
   {
     "id": "2",
-    "question": "Can I meet a puppy before I decide?",
-    "answer": "Yes. Come meet our locally available puppies in our Downtown Dubai showroom and spend time bonding before making your decision."
+    "question": "Can I meet a puppy before I decide in Mumbai?",
+    "answer": "Yes! You can visit our boutique showroom in Bandra West, Mumbai to meet our locally available puppies and spend time bonding before making your decision."
   },
   {
     "id": "3",
-    "question": "Can I take my puppy home the same day?",
-    "answer": "Local puppies are available immediately, so you can take your puppy home the same day."
+    "question": "Do you deliver puppies across other cities in India?",
+    "answer": "Yes. We offer safe, climate-controlled pet delivery across India including Delhi NCR, Bengaluru, Hyderabad, Pune, Ahmedabad, Chennai, and Kolkata. An animal travel concierge accompanies the puppy throughout the journey."
   },
   {
     "id": "4",
-    "question": "Do you import puppies from abroad?",
-    "answer": "Yes. Through our Order Upon Request service we source rare and premium teacup breeds from the most reputable, certified breeders across Europe, Korea, and beyond \u2014 and we handle the import for you."
+    "question": "Do you import rare teacup puppies from Korea and Europe?",
+    "answer": "Yes. Through our Order Upon Request service, we source genuine teacup and miniature breeds from certified ethical breeders in South Korea and Europe, managing all DGFT, customs, and veterinary quarantine protocols for you."
   },
   {
     "id": "5",
-    "question": "How does an imported puppy travel to Dubai?",
-    "answer": "We manage every part of the import process, including health checks, travel arrangements, and the necessary documentation, so your puppy arrives happy, healthy, and stress-free."
+    "question": "How does an imported puppy travel to India?",
+    "answer": "We manage every part of the international flight with authorized pet courier airlines. The puppy travels in a temperature-regulated environment with mandatory health checks and documentation, ensuring a stress-free arrival."
   },
   {
     "id": "6",
-    "question": "Will I see photos and health details first?",
-    "answer": "Yes. Photos, video clips, and full health records are shared with you before any commitment is made."
+    "question": "Will I see live video calls and health details first?",
+    "answer": "Yes. High-definition photos, video clips, live WhatsApp video calls with the puppy, and comprehensive medical records are provided before any confirmation."
   },
   {
     "id": "7",
-    "question": "Do you offer post-adoption support?",
-    "answer": "Absolutely! We provide 24/7 post-adoption guidance, feeding instructions, and tips to help your puppy settle comfortably into their new home."
+    "question": "Do you provide guidance on puppy diet, weather, and grooming in India?",
+    "answer": "Absolutely! We provide lifetime 24/7 post-adoption assistance, advising on optimal air conditioning, grooming for tropical climates, feeding charts, and local vet connections across Indian cities."
   },
   {
     "id": "8",
     "question": "What breeds do you specialize in?",
-    "answer": "We specialize in miniature and teacup breeds including Maltipoos, Cavapoos, Toy Poodles, Korean Teacup Pomeranians, and Shih Tzus."
+    "answer": "We specialize in hypoallergenic miniature and teacup breeds suitable for apartment living: Maltipoos, Cavapoos, Toy Poodles, Korean Teacup Pomeranians, and Shih Tzus."
   },
   {
     "id": "9",
-    "question": "Where is your showroom located?",
-    "answer": "Our boutique showroom is located in Downtown Dubai, United Arab Emirates. Appointments can be scheduled via WhatsApp or phone."
+    "question": "Where is your boutique showroom located?",
+    "answer": "Our flagship showroom is located in Bandra West, Mumbai, Maharashtra. Showroom visits are scheduled by prior appointment via WhatsApp or phone call."
   }
 ];

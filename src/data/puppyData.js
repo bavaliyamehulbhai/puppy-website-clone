@@ -7,7 +7,7 @@ export const puppyData = [
     "gender": "boy",
     "age": "3 months",
     "origin": "imported",
-    "originLabel": "Imported for you (Korea)",
+    "originLabel": "Imported for you (Korea \u2192 India)",
     "status": "Available",
     "hasVideo": true,
     "image": "/assets/puppies/maltipoo-max-male.webp",
@@ -22,8 +22,8 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 12,500",
-    "description": "Max is an irresistible apricot Maltipoo boy with button dark eyes, an ultra-dense hypoallergenic teddy coat, and a joyful, gentle personality. Raised with supreme veterinary care and socialized around people."
+    "price": "\u20b995,000",
+    "description": "Max is an irresistible apricot Maltipoo boy with button dark eyes, an ultra-dense hypoallergenic teddy coat, and a joyful, gentle personality. Raised with supreme veterinary care and fully socialized."
   },
   {
     "id": "2",
@@ -33,7 +33,7 @@ export const puppyData = [
     "gender": "girl",
     "age": "2 months",
     "origin": "imported",
-    "originLabel": "Imported for you (Korea)",
+    "originLabel": "Imported for you (Korea \u2192 India)",
     "status": "Available",
     "hasVideo": true,
     "image": "/assets/puppies/korean-teacup-maltipoo-female.webp",
@@ -47,7 +47,7 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 14,000",
+    "price": "\u20b91,25,000",
     "description": "An ultra-tiny Korean teacup Maltipoo female with compact proportions, short muzzle, and silky wavy coat. Very sweet, calm, and loves cuddles."
   },
   {
@@ -58,7 +58,7 @@ export const puppyData = [
     "gender": "girl",
     "age": "2 months",
     "origin": "imported",
-    "originLabel": "Imported for you (Korea)",
+    "originLabel": "Imported for you (Korea \u2192 India)",
     "status": "Available",
     "hasVideo": false,
     "image": "/assets/puppies/korean-teacup-poodle-female.webp",
@@ -71,7 +71,7 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 13,500",
+    "price": "\u20b91,15,000",
     "description": "Exquisite Korean teacup Poodle female with curly non-shedding red coat, lively intelligence, and regal miniature frame."
   },
   {
@@ -82,7 +82,7 @@ export const puppyData = [
     "gender": "boy",
     "age": "3 months",
     "origin": "local",
-    "originLabel": "In Dubai showroom",
+    "originLabel": "In Mumbai Showroom",
     "status": "Available",
     "hasVideo": true,
     "image": "/assets/puppies/maltipoo-cavapoo-male.webp",
@@ -95,8 +95,8 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 9,800",
-    "description": "Lovable Cavapoo boy ready to meet you face-to-face in our Downtown Dubai showroom today. Affectionate, friendly, and great with children."
+    "price": "\u20b975,000",
+    "description": "Lovable Cavapoo boy ready to meet you face-to-face in our Bandra, Mumbai showroom today. Affectionate, friendly, and great with children."
   },
   {
     "id": "5",
@@ -106,7 +106,7 @@ export const puppyData = [
     "gender": "boy",
     "age": "2 months",
     "origin": "local",
-    "originLabel": "In Dubai showroom",
+    "originLabel": "In Mumbai Showroom",
     "status": "Available",
     "hasVideo": false,
     "image": "/assets/puppies/toy-poodle-male-female.webp",
@@ -119,8 +119,8 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 9,500",
-    "description": "Smart, playful toy poodle with perfect curly coat. Healthy, fully vaccinated, and ready to join your family in Dubai."
+    "price": "\u20b968,000",
+    "description": "Smart, playful toy poodle with perfect curly coat. Healthy, fully vaccinated, and ready to join your family with doorstep delivery across India."
   },
   {
     "id": "6",
@@ -130,7 +130,7 @@ export const puppyData = [
     "gender": "girl",
     "age": "3 months",
     "origin": "local",
-    "originLabel": "In Dubai showroom",
+    "originLabel": "In Mumbai Showroom",
     "status": "Available",
     "hasVideo": true,
     "image": "/assets/puppies/maltipoo-female-2.webp",
@@ -143,8 +143,8 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 10,200",
-    "description": "Heart-melting Maltipoo girl with adorable teddy bear look and calm, gentle temperament. Available in Dubai showroom."
+    "price": "\u20b978,000",
+    "description": "Heart-melting Maltipoo girl with adorable teddy bear look and calm, gentle temperament. Available in Mumbai showroom."
   },
   {
     "id": "7",
@@ -154,7 +154,7 @@ export const puppyData = [
     "gender": "boy",
     "age": "2.5 months",
     "origin": "imported",
-    "originLabel": "Imported for you (Europe)",
+    "originLabel": "Imported for you (Europe \u2192 India)",
     "status": "Available",
     "hasVideo": true,
     "image": "/assets/puppies/copper-male.webp",
@@ -167,8 +167,8 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 11,500",
-    "description": "Gorgeous copper coat with soulful eyes. Super playful and loves cuddles."
+    "price": "\u20b989,000",
+    "description": "Gorgeous copper coat with soulful eyes. Super playful and loves cuddles. Ready for safe flight delivery across India."
   },
   {
     "id": "8",
@@ -178,7 +178,7 @@ export const puppyData = [
     "gender": "girl",
     "age": "2 months",
     "origin": "imported",
-    "originLabel": "Imported for you (Korea)",
+    "originLabel": "Imported for you (Korea \u2192 India)",
     "status": "Available",
     "hasVideo": true,
     "image": "/assets/puppies/korean-teacup-pomeranian.webp",
@@ -191,8 +191,8 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 15,000",
-    "description": "Fluffy cloud Korean teacup Pomeranian with doll-face features, tiny paws, and dense double coat."
+    "price": "\u20b91,40,000",
+    "description": "Fluffy white cloud Korean teacup Pomeranian with doll-face features, tiny paws, and dense double coat."
   },
   {
     "id": "9",
@@ -202,7 +202,7 @@ export const puppyData = [
     "gender": "girl",
     "age": "2.5 months",
     "origin": "local",
-    "originLabel": "In Dubai showroom",
+    "originLabel": "In Mumbai Showroom",
     "status": "Available",
     "hasVideo": false,
     "image": "/assets/puppies/shitzu-female.webp",
@@ -215,7 +215,7 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 7,500",
+    "price": "\u20b948,000",
     "description": "Playful, affectionate Shih Tzu puppy with silk coat and charming sweet character."
   },
   {
@@ -226,7 +226,7 @@ export const puppyData = [
     "gender": "boy",
     "age": "3 months",
     "origin": "local",
-    "originLabel": "In Dubai showroom",
+    "originLabel": "In Mumbai Showroom",
     "status": "Available",
     "hasVideo": false,
     "image": "/assets/puppies/shitzu-male.webp",
@@ -239,8 +239,8 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 7,500",
-    "description": "Loving companion puppy, very friendly, fully socialized and vaccinated."
+    "price": "\u20b945,000",
+    "description": "Loving companion puppy, very friendly, fully socialized, vaccinated, and ready for adoption."
   },
   {
     "id": "11",
@@ -250,7 +250,7 @@ export const puppyData = [
     "gender": "girl",
     "age": "2.5 months",
     "origin": "imported",
-    "originLabel": "Imported for you (Korea)",
+    "originLabel": "Imported for you (Korea \u2192 India)",
     "status": "Available",
     "hasVideo": true,
     "image": "/assets/puppies/korean-teacup-pomeranian-1.webp",
@@ -263,7 +263,7 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 14,500",
+    "price": "\u20b91,35,000",
     "description": "Miniature micro Pomeranian with teddy bear face, short legs, and very friendly behavior."
   },
   {
@@ -274,7 +274,7 @@ export const puppyData = [
     "gender": "boy",
     "age": "2 months",
     "origin": "imported",
-    "originLabel": "Imported for you (Korea)",
+    "originLabel": "Imported for you (Korea \u2192 India)",
     "status": "Available",
     "hasVideo": false,
     "image": "/assets/puppies/korean-teacup-pomeranian-male.webp",
@@ -287,7 +287,7 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 13,800",
+    "price": "\u20b91,20,000",
     "description": "Vibrant orange sable teacup Pomeranian boy with sparkling eyes and a cheerful personality."
   },
   {
@@ -298,7 +298,7 @@ export const puppyData = [
     "gender": "girl",
     "age": "3 months",
     "origin": "local",
-    "originLabel": "In Dubai showroom",
+    "originLabel": "In Mumbai Showroom",
     "status": "Available",
     "hasVideo": true,
     "image": "/assets/puppies/maltipoo-female.webp",
@@ -311,8 +311,8 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 10,500",
-    "description": "Extremely cuddly vanilla Maltipoo girl with silky wavy coat, perfect for apartment living."
+    "price": "\u20b982,000",
+    "description": "Extremely cuddly vanilla Maltipoo girl with silky wavy coat, perfect for modern Indian apartment living."
   },
   {
     "id": "14",
@@ -322,7 +322,7 @@ export const puppyData = [
     "gender": "girl",
     "age": "3 months",
     "origin": "imported",
-    "originLabel": "Imported for you (Korea)",
+    "originLabel": "Imported for you (Korea \u2192 India)",
     "status": "Available",
     "hasVideo": false,
     "image": "/assets/puppies/maltipoo-female-1.webp",
@@ -335,8 +335,8 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 12,000",
-    "description": "Petite caramel latte coat with sweet disposition, loves gentle companionship."
+    "price": "\u20b998,000",
+    "description": "Petite caramel latte coat with sweet disposition, loves gentle companionship and lap time."
   },
   {
     "id": "15",
@@ -346,7 +346,7 @@ export const puppyData = [
     "gender": "girl",
     "age": "3 months",
     "origin": "local",
-    "originLabel": "In Dubai showroom",
+    "originLabel": "In Mumbai Showroom",
     "status": "Available",
     "hasVideo": false,
     "image": "/assets/puppies/pomeranian-female.webp",
@@ -359,8 +359,8 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 8,900",
-    "description": "Bright and joyful Pomeranian girl ready to meet you at our showroom."
+    "price": "\u20b955,000",
+    "description": "Bright and joyful Pomeranian girl ready to meet you at our Bandra showroom."
   },
   {
     "id": "16",
@@ -370,7 +370,7 @@ export const puppyData = [
     "gender": "girl",
     "age": "3 months",
     "origin": "local",
-    "originLabel": "In Dubai showroom",
+    "originLabel": "Mumbai showroom home",
     "status": "Gone Home",
     "hasVideo": true,
     "image": "/assets/puppies/maltipoo-mia-girl.webp",
@@ -384,7 +384,7 @@ export const puppyData = [
     "dewormed": true,
     "passport": true,
     "price": "Adopted",
-    "description": "Mia has joined her wonderful family in Downtown Dubai!"
+    "description": "Mia has joined her wonderful family in Worli, South Mumbai!"
   },
   {
     "id": "17",
@@ -394,7 +394,7 @@ export const puppyData = [
     "gender": "girl",
     "age": "3 months",
     "origin": "imported",
-    "originLabel": "TeddyPups home",
+    "originLabel": "TeddyPups India home",
     "status": "Gone Home",
     "hasVideo": false,
     "image": "/assets/puppies/maltipoo-sadie-girl.webp",
@@ -408,7 +408,7 @@ export const puppyData = [
     "dewormed": true,
     "passport": true,
     "price": "Adopted",
-    "description": "Sadie has happily arrived with her loving family in Abu Dhabi."
+    "description": "Sadie has happily arrived with her loving family in Vasant Kunj, New Delhi."
   },
   {
     "id": "18",
@@ -418,7 +418,7 @@ export const puppyData = [
     "gender": "boy",
     "age": "3 months",
     "origin": "imported",
-    "originLabel": "TeddyPups home",
+    "originLabel": "TeddyPups India home",
     "status": "Gone Home",
     "hasVideo": false,
     "image": "/assets/puppies/pomeranian-ace-boy.webp",
@@ -432,7 +432,7 @@ export const puppyData = [
     "dewormed": true,
     "passport": true,
     "price": "Adopted",
-    "description": "Ace is now bringing warmth and smiles to his forever family in Dubai Marina."
+    "description": "Ace is now bringing warmth and smiles to his forever home in Koramangala, Bengaluru."
   },
   {
     "id": "19",
@@ -442,7 +442,7 @@ export const puppyData = [
     "gender": "boy",
     "age": "2.5 months",
     "origin": "imported",
-    "originLabel": "TeddyPups home",
+    "originLabel": "TeddyPups India home",
     "status": "Gone Home",
     "hasVideo": false,
     "image": "/assets/puppies/poodle-leo-male.webp",
@@ -456,7 +456,7 @@ export const puppyData = [
     "dewormed": true,
     "passport": true,
     "price": "Adopted",
-    "description": "Leo has settled happily into his new family home in Dubai Hills."
+    "description": "Leo has settled happily into his new family home in Kalyani Nagar, Pune."
   },
   {
     "id": "20",
@@ -466,7 +466,7 @@ export const puppyData = [
     "gender": "boy",
     "age": "2 months",
     "origin": "imported",
-    "originLabel": "Imported for you (Korea)",
+    "originLabel": "Imported for you (Korea \u2192 India)",
     "status": "Available",
     "hasVideo": true,
     "image": "/assets/puppies/blue-marle-pomeranian.webp",
@@ -479,7 +479,7 @@ export const puppyData = [
     "vaccinated": true,
     "dewormed": true,
     "passport": true,
-    "price": "AED 16,000",
-    "description": "Extremely rare Blue Merle Korean teacup Pomeranian boy with striking marbled coat and ice blue eyes. Truly one of a kind."
+    "price": "\u20b91,50,000",
+    "description": "Extremely rare Blue Merle Korean teacup Pomeranian boy with striking marbled coat and ice blue eyes. Delivered with pet nanny across India."
   }
 ];

@@ -79,7 +79,7 @@ function Footer() {
               </span>
             </div>
             <p className="text-sm text-[#FBE9CC]/80 leading-relaxed">
-              Home, at last. TeddyPups U.A.E. is a Dubai-based brand specializing in miniature puppies, offering premium services and worldwide shipping.
+              Home, at last. TeddyPups India is a premier brand specializing in miniature puppies, offering premium services and worldwide shipping.
             </p>
             <div className="font-script text-[#F2BE6B] text-sm">
               every puppy is family
@@ -112,7 +112,7 @@ function Footer() {
                   rel="noopener noreferrer" 
                   className="hover:text-white"
                 >
-                  WhatsApp +971 50 000 0000
+                  WhatsApp +91 98981 24987
                 </a>
               </li>
               <li className="flex items-center gap-2.5">
@@ -123,7 +123,7 @@ function Footer() {
               </li>
               <li className="flex items-start gap-2.5">
                 <MapPin className="w-4 h-4 text-[#C2622B] shrink-0 mt-0.5" />
-                <span>Downtown Dubai, United Arab Emirates</span>
+                <span>Bandra West, Mumbai · Pan-India Delivery</span>
               </li>
             </ul>
           </div>
@@ -163,7 +163,7 @@ function Footer() {
 
         {/* Bottom Bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-[#FBE9CC]/60 gap-4">
-          <p>© 2026 TeddyPups U.A.E. every puppy is family</p>
+          <p>© 2026 TeddyPups India every puppy is family</p>
           <p>Crafted with love for puppy parents worldwide</p>
         </div>
       </div>

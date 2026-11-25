@@ -25,11 +25,11 @@ function HeroSection() {
 
             <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-extrabold text-[#2A170E] tracking-tight leading-[1.1]">
               Premium teacup <br className="hidden sm:inline" />
-              puppies in Dubai
+              puppies in India
             </h1>
 
             <p className="text-base sm:text-lg text-[#5A3A28] max-w-xl mx-auto lg:mx-0 leading-relaxed font-normal">
-              Meet your new best friend in our Dubai showroom, or order a rare miniature breed from trusted breeders worldwide.
+              Meet your new best friend in our Mumbai showroom, or order an imported breed delivered across India, or order a rare miniature breed from trusted breeders worldwide.
             </p>
 
             {/* CTAs */}
@@ -52,7 +52,7 @@ function HeroSection() {
             <div className="pt-4 flex items-center justify-center lg:justify-start gap-6 text-xs text-[#8C7364]">
               <div className="flex items-center gap-1.5">
                 <span className="w-2 h-2 rounded-full bg-[#5F8F4A]" />
-                <span>Downtown Dubai Showroom</span>
+                <span>Mumbai Showroom & Pan-India Delivery</span>
               </div>
               <div className="flex items-center gap-1.5">
                 <span className="w-2 h-2 rounded-full bg-[#C2622B]" />
@@ -74,7 +74,7 @@ function HeroSection() {
                     className="w-full h-full object-cover object-center"
                   />
                   <div className="absolute top-3 left-3 bg-[#EBF5E9] text-[#5F8F4A] text-xs font-semibold px-2.5 py-1 rounded-full border border-[#5F8F4A]/20">
-                    Available in Dubai
+                    Available in India
                   </div>
                   <div className="absolute top-3 right-3 p-2 rounded-full bg-white/80 backdrop-blur-sm text-[#C2622B]">
                     <Heart className="w-4 h-4 fill-current" />

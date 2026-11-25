@@ -18,7 +18,7 @@ function Puppies() {
   const breeds = ['all', 'maltipoo', 'cavapoo', 'pomeranian', 'poodle', 'shih-tzu']
   const origins = [
     { id: 'all', label: 'All Locations' },
-    { id: 'local', label: 'In Dubai showroom' },
+    { id: 'local', label: 'In Mumbai showroom' },
     { id: 'imported', label: 'Imported for you' }
   ]
 
@@ -96,7 +96,7 @@ function Puppies() {
             Available Puppies
           </h1>
           <p className="text-base text-[#5A3A28] leading-relaxed">
-            Every puppy is vet-checked, fully vaccinated, and ready to meet you in our Downtown Dubai showroom or delivered safely to your home.
+            Every puppy is vet-checked, fully vaccinated, and ready to meet you in our Bandra West, Mumbai showroom or delivered to your doorstep in India or delivered safely to your home.
           </p>
         </div>
 

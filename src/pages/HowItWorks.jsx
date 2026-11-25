@@ -26,7 +26,7 @@ function HowItWorks() {
             How It Works
           </h1>
           <p className="text-base text-[#5A3A28] leading-relaxed">
-            Whether you choose to visit our Downtown Dubai showroom or order a rare miniature teacup breed from certified overseas breeders, TeddyPups is here to make your experience unforgettable.
+            Whether you choose to visit our Bandra West, Mumbai showroom or order a rare miniature teacup breed from certified overseas breeders, TeddyPups is here to make your experience unforgettable.
           </p>
         </div>
 
@@ -55,13 +55,13 @@ function HowItWorks() {
               <div>
                 <div className="flex items-center gap-2 mb-4 text-[#C2622B]">
                   <MapPin className="w-5 h-5" />
-                  <span className="font-script font-semibold text-sm">Downtown Dubai</span>
+                  <span className="font-script font-semibold text-sm">Bandra West, Mumbai</span>
                 </div>
                 <h3 className="font-serif text-2xl font-bold text-[#2A170E] mb-3">
-                  In Dubai: Meet in Person
+                  In Mumbai: Meet in Person
                 </h3>
                 <p className="text-sm text-[#5A3A28] leading-relaxed mb-6">
-                  Step into our Downtown Dubai showroom and experience the joy of meeting and choosing your puppy face-to-face. We source healthy, well-socialized puppies with veterinary checks.
+                  Step into our Bandra West, Mumbai showroom and experience the joy of meeting and choosing your puppy face-to-face. We source healthy, well-socialized puppies with veterinary checks.
                 </p>
                 <ul className="space-y-3 text-xs text-[#5A301B]">
                   <li className="flex items-center gap-2">
@@ -97,7 +97,7 @@ function HowItWorks() {
               <div>
                 <div className="flex items-center gap-2 mb-4 text-[#2F6E9E]">
                   <Plane className="w-5 h-5" />
-                  <span className="font-script font-semibold text-sm">Korea / Europe → Dubai</span>
+                  <span className="font-script font-semibold text-sm">Korea / Europe → India</span>
                 </div>
                 <h3 className="font-serif text-2xl font-bold text-[#2A170E] mb-3">
                   Imported: Order Upon Request
@@ -169,22 +169,22 @@ function HowItWorks() {
           <div id="delivery" className="bg-white rounded-3xl p-8 sm:p-12 border border-[#2A170E]/10 max-w-4xl mx-auto shadow-sm space-y-6">
             <div className="flex items-center gap-3">
               <Truck className="w-8 h-8 text-[#C2622B]" />
-              <h3 className="font-serif text-2xl font-bold text-[#2A170E]">Delivery & Collection in the UAE</h3>
+              <h3 className="font-serif text-2xl font-bold text-[#2A170E]">Delivery & Collection across India</h3>
             </div>
             <p className="text-sm text-[#5A3A28] leading-relaxed">
-              We offer two convenient ways to receive your new family member across Dubai, Abu Dhabi, and the Northern Emirates:
+              We offer two convenient ways to receive your new family member across all major Indian cities with full pet-safe flight transit:
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 pt-2">
               <div className="p-6 rounded-2xl bg-[#FFECC8]/40 border border-[#F2BE6B]/40">
                 <h4 className="font-serif text-lg font-bold text-[#2A170E] mb-2">Showroom Pick-Up</h4>
                 <p className="text-xs text-[#5A3A28] leading-relaxed">
-                  Collect your puppy directly from our showroom in Downtown Dubai. Enjoy a relaxing handover session where we demonstrate feeding, grooming, and puppy care basics.
+                  Collect your puppy directly from our showroom in Bandra West, Mumbai. Enjoy a relaxing handover session where we demonstrate feeding, grooming, and puppy care basics.
                 </p>
               </div>
               <div className="p-6 rounded-2xl bg-[#FFFDF8] border border-[#2A170E]/10">
                 <h4 className="font-serif text-lg font-bold text-[#2A170E] mb-2">Climate-Controlled Home Delivery</h4>
                 <p className="text-xs text-[#5A3A28] leading-relaxed">
-                  Our private chauffeur delivers your puppy directly to your doorstep anywhere in Dubai, Abu Dhabi, or Sharjah in a temperature-controlled pet vehicle accompanied by a care specialist.
+                  Our private chauffeur delivers your puppy directly to your doorstep anywhere in Mumbai, Delhi NCR, Bengaluru, Pune, Ahmedabad or any Indian metro in a temperature-controlled pet vehicle accompanied by a care specialist.
                 </p>
               </div>
             </div>

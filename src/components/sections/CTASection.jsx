@@ -20,7 +20,7 @@ function CTASection() {
         </h2>
 
         <p className="text-[#FBE9CC]/80 text-base sm:text-lg max-w-xl mx-auto mb-10 leading-relaxed">
-          Bring home a healthy, happy teacup or designer puppy with expert guidance every step of the way. We ensure smooth, safe delivery across the UAE.
+          Bring home a healthy, happy teacup or designer puppy with expert guidance every step of the way. We ensure smooth, safe delivery across Mumbai, Delhi NCR, Bengaluru, and pan-India.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

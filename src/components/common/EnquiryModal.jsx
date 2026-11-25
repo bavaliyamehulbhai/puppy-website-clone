@@ -6,7 +6,7 @@ function EnquiryModal({ puppy, isOpen, onClose }) {
     name: '',
     phone: '',
     email: '',
-    city: 'Dubai',
+    city: 'Mumbai',
     preferredDate: '',
     message: ''
   })
@@ -86,7 +86,7 @@ function EnquiryModal({ puppy, isOpen, onClose }) {
                 Enquire about {puppy ? puppy.name : 'Puppy'}
               </h3>
               <p className="text-xs text-[#5A3A28] mt-1">
-                {puppy ? `${puppy.breed} · ${puppy.gender} · ${puppy.originLabel}` : 'Downtown Dubai showroom'}
+                {puppy ? `${puppy.breed} · ${puppy.gender} · ${puppy.originLabel}` : 'Mumbai Showroom · Safe Pan-India Delivery'}
               </p>
             </div>
 
@@ -142,12 +142,15 @@ function EnquiryModal({ puppy, isOpen, onClose }) {
                   onChange={(e) => setFormData({ ...formData, city: e.target.value })}
                   className="w-full px-4 py-2.5 rounded-xl border border-[#2A170E]/20 bg-white text-sm focus:outline-none focus:ring-2 focus:ring-[#C2622B]"
                 >
-                  <option value="Dubai">Dubai</option>
-                  <option value="Abu Dhabi">Abu Dhabi</option>
-                  <option value="Sharjah">Sharjah</option>
-                  <option value="Ajman">Ajman</option>
-                  <option value="Ras Al Khaimah">Ras Al Khaimah</option>
-                  <option value="International">Outside UAE (Worldwide)</option>
+                  <option value="Mumbai">Mumbai</option>
+                  <option value="Delhi NCR">Delhi NCR</option>
+                  <option value="Bengaluru">Bengaluru</option>
+                  <option value="Ahmedabad">Ahmedabad</option>
+                  <option value="Pune">Pune</option>
+                  <option value="Hyderabad">Hyderabad</option>
+                  <option value="Kolkata">Kolkata</option>
+                  <option value="Chennai">Chennai</option>
+                  <option value="Other Indian City">Other City in India</option>
                 </select>
               </div>
 
